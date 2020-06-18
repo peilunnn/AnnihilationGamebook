@@ -1,68 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!DOCTYPE html>
+<html>
 
-## Available Scripts
+   <body>
+<p align="center">
+      <img src="https://alternativemovieposters.com/wp-content/uploads/2018/06/zi_annilation.jpg" width="350"
+         height="550">
+   </body>
+</html>
 
-In the project directory, you can run:
+  <!-- TITLE -->
 
-### `npm start`
+  <h1 align="center"> 🧬️ Annihilation Gamebook 🧬️</a></h1>
+  <p align="center">
+    A text based choose your own adventure game based on the movie 'Annihilation'. Built using JavaScript and React. 
+    <br />
+    <br />
+    <a href="https://github.com/peilunnn/GUIUnifiedPayments-splitting-first-and-last-names-.ipynb/blob/master/GUIUnifiedPayments(splitting%20first%20and%20last%20names).ipynb">Source Code</a>
+    ·
+    <a href="https://github.com/peilunnn/GUIUnifiedPayments-splitting-first-and-last-names-.ipynb/issues">Report Bug</a>
+    ·
+  </p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- TABLE OF CONTENTS -->
 
-### `npm run build`
+## Table of Contents :notebook_with_decorative_cover:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* [About the Project :eyes:](#about-the-project)
+* [Social Media :fire:](#contact)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## About The Project :eyes:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+You play as Lena, cellular biology professor and former U.S. Army soldier. Near the US government's Area X facility lies the Shimmer, which emerged three years ago when a meteor  landed in a lighthouse nearby, and is gradually expanding and increasing its boundaries. Many expeditions have been organized, but only your husband Kane returns home after a year of absence. Kane is glazed and distant, and his condition quickly deteriorates. As Kane is put in intensive care, psychologist Dr. Ventress prepares a new expedition into the Shimmer, which you volunteer for. Three other women participate in the expedition: physicist Josie Radek, geomorphologist Cassie "Cass" Sheppard, and paramedic Anya Thorensen.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Social Media :fire:
 
-### Code Splitting
+🥂**Pei Lun** 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+🔗 [LinkedIn](https://www.linkedin.com/in/pei-lun-tan/)
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+📧 [Email](mailto:peilunnn@gmail.com)

@@ -31,16 +31,16 @@
 
 * [About the Project :eyes:](#about-the-project)
 * [Social Media :fire:](#contact)
-<br /><br /><br /><br />
+<br /><br /><br />
+
 ## About The Project :eyes:
 
 You play as Lena, cellular biology professor and former U.S. Army soldier. Near the US government's Area X facility lies the Shimmer, which emerged three years ago when a meteor  landed in a lighthouse nearby, and is gradually expanding and increasing its boundaries. Many expeditions have been organized, but only your husband Kane returns home after a year of absence. Kane is glazed and distant, and his condition quickly deteriorates. As Kane is put in intensive care, psychologist Dr. Ventress prepares a new expedition into the Shimmer, which you volunteer for. Three other women participate in the expedition: physicist Josie Radek, geomorphologist Cassie "Cass" Sheppard, and paramedic Anya Thorensen.
 
+<br /><br />
 
 Play it here: https://annihilation-cyoa.web.app/
-
-
-
+<br /><br /><br /><br />
 
 ## Social Media :fire:
 

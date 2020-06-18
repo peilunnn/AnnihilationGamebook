@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CYOA-Annihilation/static/css/main.04f6a7b4.chunk.css",
+    "main.js": "/CYOA-Annihilation/static/js/main.21a83cfb.chunk.js",
+    "main.js.map": "/CYOA-Annihilation/static/js/main.21a83cfb.chunk.js.map",
+    "runtime-main.js": "/CYOA-Annihilation/static/js/runtime-main.925d3efc.js",
+    "runtime-main.js.map": "/CYOA-Annihilation/static/js/runtime-main.925d3efc.js.map",
+    "static/js/2.8f3ac4e1.chunk.js": "/CYOA-Annihilation/static/js/2.8f3ac4e1.chunk.js",
+    "static/js/2.8f3ac4e1.chunk.js.map": "/CYOA-Annihilation/static/js/2.8f3ac4e1.chunk.js.map",
+    "index.html": "/CYOA-Annihilation/index.html",
+    "precache-manifest.9c9cd1da3b821cc7d62c718f8c31771b.js": "/CYOA-Annihilation/precache-manifest.9c9cd1da3b821cc7d62c718f8c31771b.js",
+    "service-worker.js": "/CYOA-Annihilation/service-worker.js",
+    "static/css/main.04f6a7b4.chunk.css.map": "/CYOA-Annihilation/static/css/main.04f6a7b4.chunk.css.map",
+    "static/js/2.8f3ac4e1.chunk.js.LICENSE.txt": "/CYOA-Annihilation/static/js/2.8f3ac4e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.925d3efc.js",
+    "static/js/2.8f3ac4e1.chunk.js",
+    "static/css/main.04f6a7b4.chunk.css",
+    "static/js/main.21a83cfb.chunk.js"
+  ]
+}

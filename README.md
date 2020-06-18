@@ -12,12 +12,12 @@
 
   <h1 align="center"> 🧬️ Annihilation Gamebook 🧬️</a></h1>
   <p align="center">
-    A text based choose your own adventure game based on the movie 'Annihilation'. Built using JavaScript and React. 
+    A text based, choose your own adventure game based on the movie 'Annihilation'. Built using JavaScript and React. 
     <br />
     <br />
-    <a href="https://github.com/peilunnn/GUIUnifiedPayments-splitting-first-and-last-names-.ipynb/blob/master/GUIUnifiedPayments(splitting%20first%20and%20last%20names).ipynb">Source Code</a>
+    <a href="https://github.com/peilunnn/Annihilation-Gamebook/tree/master/src">Source Code</a>
     ·
-    <a href="https://github.com/peilunnn/GUIUnifiedPayments-splitting-first-and-last-names-.ipynb/issues">Report Bug</a>
+    <a href="https://github.com/peilunnn/Annihilation-Gamebook/issues">Report Bug</a>
     ·
   </p>
 
@@ -39,6 +39,9 @@
 ## About The Project :eyes:
 
 You play as Lena, cellular biology professor and former U.S. Army soldier. Near the US government's Area X facility lies the Shimmer, which emerged three years ago when a meteor  landed in a lighthouse nearby, and is gradually expanding and increasing its boundaries. Many expeditions have been organized, but only your husband Kane returns home after a year of absence. Kane is glazed and distant, and his condition quickly deteriorates. As Kane is put in intensive care, psychologist Dr. Ventress prepares a new expedition into the Shimmer, which you volunteer for. Three other women participate in the expedition: physicist Josie Radek, geomorphologist Cassie "Cass" Sheppard, and paramedic Anya Thorensen.
+
+
+Play it here: https://annihilation-cyoa.web.app/
 
 
 

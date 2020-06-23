@@ -10,7 +10,7 @@
 
   <!-- TITLE -->
 
-  <h1 align="center"> 🧬️ Annihilation Gamebook 🧬️</a></h1>
+  <h1 align="center"> :microscope: Annihilation Gamebook :microscope:</a></h1>
   <p align="center">
     A text based, choose your own adventure game based on the movie 'Annihilation'. Built using JavaScript and React. 
     <br />

@@ -15,7 +15,7 @@
     A text based, choose your own adventure game based on the movie 'Annihilation'. Built using JavaScript and React. 
     <br />
     <br />
-    <a href="https://github.com/peilunnn/Annihilation-Gamebook/tree/master/src">Source Code</a>
+    <a href="https://github.com/peilunnn/AnnihilationGamebook/tree/master/src/backend">Source Code</a>
     ·
     <a href="https://github.com/peilunnn/Annihilation-Gamebook/issues">Report Bug</a>
     ·

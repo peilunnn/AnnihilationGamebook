@@ -48,4 +48,4 @@ Play it here: https://annihilation-cyoa.web.app/
 
 🔗 [LinkedIn](https://www.linkedin.com/in/pei-lun-tan/)
 
-📧 [Email](mailto:peilunnn@gmail.com)
+📧 [Email](mailto:PTAN065@e.ntu.edu.sg)
